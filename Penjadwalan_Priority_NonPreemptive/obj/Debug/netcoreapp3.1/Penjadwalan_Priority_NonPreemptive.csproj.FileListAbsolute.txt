@@ -1,0 +1,26 @@
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.exe
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.deps.json
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.runtimeconfig.json
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.runtimeconfig.dev.json
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.dll
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.pdb
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.AssemblyInfoInputs.cache
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.AssemblyInfo.cs
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.dll
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.pdb
+D:\Project\Visual Studio Project\Latihan\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.genruntimeconfig.cache
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.exe
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.deps.json
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.runtimeconfig.json
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.runtimeconfig.dev.json
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.dll
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\bin\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.pdb
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.AssemblyInfoInputs.cache
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.AssemblyInfo.cs
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.dll
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.pdb
+D:\Project\Visual Studio Project\Sistem Operasi C\Priority_NonPreemptive\Penjadwalan_Priority_NonPreemptive\obj\Debug\netcoreapp3.1\Penjadwalan_Priority_NonPreemptive.genruntimeconfig.cache
